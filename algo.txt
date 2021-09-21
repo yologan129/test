@@ -1,2 +1,10 @@
 pizza
 Algo
+1. Decide the pizza place
+2. Decide what pizza to order
+3. Call the pizza place
+4. Order the pizza
+4a. Pay at the phone
+4b. Pay at the door
+5. Wait for food
+6. Get the food.
